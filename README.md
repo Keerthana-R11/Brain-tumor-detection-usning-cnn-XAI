@@ -7,7 +7,9 @@ To improve transparency and trust, Explainable AI (XAI) techniques such as Grad-
 ## 🗂️ Dataset
 - Brain MRI image dataset (public dataset / Kaggle)
 - Image categories:
-  - Tumor
+  - pituitary
+  - meningioma
+  - Glioma
   - No Tumor
 - Preprocessed images:
   - Resized to uniform dimensions
