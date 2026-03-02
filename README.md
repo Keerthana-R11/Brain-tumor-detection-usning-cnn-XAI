@@ -5,7 +5,7 @@ This project focuses on detecting brain tumors from MRI images using Convolution
 To improve transparency and trust, Explainable AI (XAI) techniques such as Grad-CAM are used to visualize the regions influencing the model’s prediction.
 
 ## 🗂️ Dataset
-- Brain MRI image dataset (public dataset / Kaggle)
+- Brain MRI image dataset (Kaggle)
 - Image categories:
   - pituitary
   - meningioma
