@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection-usning-CNN-XAI
 
 ## 📌 Project Overview
-This project focuses on detecting brain tumors from MRI images using Convolutional Neural Networks (CNN).  
+This project focuses on detecting brain tumors from MRI images using Convolutional Neural Networks(CNN).  
 To improve transparency and trust, Explainable AI (XAI) techniques such as Grad-CAM are used to visualize the regions influencing the model’s prediction.
 
 ## 🗂️ Dataset
